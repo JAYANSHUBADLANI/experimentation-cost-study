@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# raw data is never committed, the fetch script and the committed sample
+# are what make the study reproducible
+data/raw/
+*.parquet
+results/*.log
+.venv/

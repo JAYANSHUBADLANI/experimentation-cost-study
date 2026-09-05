@@ -1,0 +1,2 @@
+procedure,looks,max_sample_size_inflation,note
+alpha_spending_obrien_fleming,14,1.059741622776073,multiplier on the fixed horizon sample size to keep 80 percent power

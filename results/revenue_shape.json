@@ -1,0 +1,13 @@
+{
+  "empirical_cv": 1.3711191403861172,
+  "empirical_mean": 160.5587868238628,
+  "empirical_sd": 220.14522577137257,
+  "gpd_scale": 315.8167185550234,
+  "gpd_xi": 0.23418142994868718,
+  "log_mu": 4.693072051716431,
+  "log_sigma": 0.8096012005344797,
+  "n_observations": 98815,
+  "source": "olist_brazilian_ecommerce_order_payment_value",
+  "tail_quantile": 0.95,
+  "threshold": 450.53
+}
