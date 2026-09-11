@@ -1,5 +1,7 @@
 # What actually reduces the sample size you need
 
+[![tests](https://github.com/JAYANSHUBADLANI/experimentation-cost-study/actions/workflows/tests.yml/badge.svg)](https://github.com/JAYANSHUBADLANI/experimentation-cost-study/actions/workflows/tests.yml)
+
 I built this to answer a question I get asked on experimentation teams and have
 never seen answered with measurements: given a metric and an effect size you
 care about, which of the standard techniques actually reduces what an
